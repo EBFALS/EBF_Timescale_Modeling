@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I’m currently working on phenocam and CO<sub>2</sub> flux eddy covariance .
 <!--
 **EBFALS/EBFALS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
